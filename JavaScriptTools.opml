@@ -48,12 +48,14 @@
             </outline>
             <outline text="Front End">
                 <outline text="MV* Frameworks">
-                    <outline text="Backbone"></outline>
-                    <outline text="Ember"></outline>
                     <outline text="Angular"></outline>
+                    <outline text="Backbone"></outline>
+                    <outline text="Can"></outline>
+                    <outline text="Durandal"></outline>
+                    <outline text="Ember"></outline>
                     <outline text="Knockout"></outline>
-                    <outline text="Ractive"></outline>
                     <outline text="Mithril"></outline>
+                    <outline text="Ractive"></outline>
                 </outline>
                 <outline text="Templates">
                     <outline text="Underscore"></outline>
