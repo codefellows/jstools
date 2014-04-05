@@ -47,7 +47,7 @@ to add new and popular tools.
 
 * [jQuery](http://jquery.com/) - jQuery is a lightweight, cross-browser, CSS3 compliant Javascript library. It greatly simplifies DOM traversal and manipulation, event handling, animations and AJAX through it's easy to use API.
 * [Zepto](http://zeptojs.com/) - Zepto is much like jQuery, but very smaller,  ultimately faster to load JavaScript library. It's API matches jQuery's API, but it concentrates on getting stuff done, fatser and more modular.
-* [Modernizr](http://modernizr.com/) - Modernizr runs quickly on page load to detect HTML5 and CSS3 features, it then creates an Object containing the results, and classes to the `html` tag to be used in your CSS. Modernizr optionally includes [YepNope.js](http://yepnopejs.com/) for conditional loading of external .js and .css resources.
+* [Modernizr](http://modernizr.com/) - Modernizr runs quickly on page load to detect HTML5 and CSS3 features, it then creates an Object containing the results, and adds classes to the `html` tag to be used in your CSS. Modernizr optionally includes [YepNope.js](http://yepnopejs.com/) for conditional loading of external .js and .css resources.
 
 **Templates**
 
