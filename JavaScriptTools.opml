@@ -55,6 +55,11 @@
                     <outline text="Ractive"></outline>
                     <outline text="Mithril"></outline>
                 </outline>
+                <outline text="Libraries">
+                    <outline text="jQuery"></outline>
+                    <outline text="Zepto"></outline>
+                    <outline text="Modernizr"></outline>
+                </outline>
                 <outline text="Templates">
                     <outline text="Underscore"></outline>
                     <outline text="Handlebars"></outline>
