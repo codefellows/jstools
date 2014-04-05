@@ -63,6 +63,9 @@
                     <outline text="Haml-js"></outline>
                     <outline text="Eco"></outline>
                 </outline>
+                <outline text="Libraries">
+                    <outline text="jQuery"></outline>
+                </outline>
                 <outline text="Testing">
                     <outline text="CasperJS"></outline>
                     <outline text="ZombieJS"></outline>
