@@ -7,19 +7,19 @@
     <body>
         <outline text="JavaScript Tools">
             <outline text="Functional Programming">
-                <outline text="Underscore"></outline>
                 <outline text="Lo-Dash"></outline>
+                <outline text="Underscore"></outline>
             </outline>
             <outline text="Scaffolding Tools">
-                <outline text="Yeoman"></outline>
                 <outline text="Grunt-init"></outline>
+                <outline text="Yeoman"></outline>
             </outline>
             <outline text="Back End">
                 <outline text="Server Frameworks">
-                    <outline text="Node"></outline>
                     <outline text="Express"></outline>
-                    <outline text="Sails"></outline>
                     <outline text="Geddy"></outline>
+                    <outline text="Node"></outline>
+                    <outline text="Sails"></outline>
                 </outline>
                 <outline text="Databases">
                     <outline text="SQL">
@@ -58,35 +58,35 @@
                     <outline text="Ractive"></outline>
                 </outline>
                 <outline text="Templates">
-                    <outline text="Underscore"></outline>
-                    <outline text="Handlebars"></outline>
-                    <outline text="Mustache"></outline>
-                    <outline text="Jade"></outline>
-                    <outline text="Haml-js"></outline>
                     <outline text="Eco"></outline>
+                    <outline text="Haml-js"></outline>
+                    <outline text="Handlebars"></outline>
+                    <outline text="Jade"></outline>
+                    <outline text="Mustache"></outline>
+                    <outline text="Underscore"></outline>
                 </outline>
                 <outline text="Testing">
                     <outline text="CasperJS"></outline>
-                    <outline text="ZombieJS"></outline>
                     <outline text="PhantomJS"></outline>
+                    <outline text="ZombieJS"></outline>
                 </outline>
             </outline>
             <outline text="Package Management Tools">
-                <outline text="Homebrew"></outline>
-                <outline text="dpkg / apt"></outline>
-                <outline text="NPM"></outline>
                 <outline text="Bower"></outline>
+                <outline text="dpkg / apt"></outline>
+                <outline text="Homebrew"></outline>
+                <outline text="NPM"></outline>
             </outline>
             <outline text="Build Tools">
                 <outline text="Grunt">
-                    <outline text="Pint"></outline>
                     <outline text="Grunt-contrib"></outline>
+                    <outline text="Pint"></outline>
                 </outline>
-                <outline text="Gulp"></outline>
-                <outline text="Browserify"></outline>
-                <outline text="Uglify"></outline>
-                <outline text="Jake"></outline>
                 <outline text="Broccoli"></outline>
+                <outline text="Browserify"></outline>
+                <outline text="Gulp"></outline>
+                <outline text="Jake"></outline>
+                <outline text="Uglify"></outline>
             </outline>
         </outline>
     </body>
