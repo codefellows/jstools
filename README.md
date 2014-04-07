@@ -50,6 +50,7 @@ to add new and popular tools.
 * [Jade](http://jade-lang.com/) - Jade is a node template engine designed primarily for server-side templating in node.js.
 * [Haml-js](https://github.com/creationix/haml-js) - Haml-js allows the [Haml](http://haml.info/) syntax to be used in a JavaScript project. It has most of the same functionality as the original Haml.
 * [Eco](https://github.com/sstephenson/eco) - Eco lets you embed [CoffeeScript](http://coffeescript.org/) logic in your markup.
+* [Dust](http://akdubya.github.io/dustjs) - A logic-less templating engine used in LinkedIn. LinkedIn even has its own fork of the project which can be found [here](https://github.com/linkedin/dustjs)
 
 **Testing**
 
