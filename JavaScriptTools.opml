@@ -54,6 +54,7 @@
                     <outline text="Knockout"></outline>
                     <outline text="Ractive"></outline>
                     <outline text="Mithril"></outline>
+                    <outline text="Meteor"></outline>
                 </outline>
                 <outline text="Templates">
                     <outline text="Underscore"></outline>

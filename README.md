@@ -42,6 +42,7 @@ to add new and popular tools.
 * [Backbone.js](http://backbonejs.org/) - Backbone.js gives structure to web applications by providing models with key-value binding and custom events, collections with a rich API of enumerable functions, and views with declarative event handling. It connects it all to your existing API over a RESTful JSON interface.
 * [Ember.js](http://emberjs.com/) - Ember makes Handlebars templates even better by ensuring your HTML stays up-to-date when the underlying model changes. To get started, you don't even need to write any JavaScript.
 * [Angular.js](http://angularjs.org/) - AngularJS lets you extend HTML vocabulary for your application. The resulting environment is extraordinarily expressive, readable, and quick to develop.
+* [Meteor](https://www.meteor.com/) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 
 **Templates**
 
