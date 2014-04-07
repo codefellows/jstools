@@ -28,6 +28,7 @@
                     </outline>
                     <outline text="NoSQL">
                         <outline text="MongoDB"></outline>
+                        <outline text="CouchDB"></outline>
                         <outline text="Redis"></outline>
                     </outline>
                 </outline>
@@ -85,6 +86,7 @@
                 <outline text="Uglify"></outline>
                 <outline text="Jake"></outline>
                 <outline text="Broccoli"></outline>
+                <outline text="Lineman"></outline>
             </outline>
         </outline>
     </body>
