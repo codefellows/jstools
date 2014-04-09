@@ -73,6 +73,7 @@ to add new and popular tools.
 **Architectural Style**
 
 * RESTful - Representational State Transfer is an architectural style consisting of a coordinated set of architectural constraints applied to components, connectors, and data elements, within a distributed hypermedia system.
+* [Idiomatic JS](https://github.com/rwaldron/idiomatic.js/) - A great resource for improving how you write your code.
 
 **Testing**
 
