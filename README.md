@@ -78,7 +78,7 @@ to add new and popular tools.
 
 * [Cucumber.js](https://github.com/cucumber/cucumber-js) - Cucumber.js takes the popular [behavior-driven development tool](http://cukes.info/) and applies it to your JavaScript stack.
 * [Jasmine](http://jasmine.github.io/) - Jasmine is a behavior-driven development testing framework for JavaScript. It does not rely on browsers, DOM, or any JavaScript framework. Thus it's suited for websites, Node.js projects, or anywhere that JavaScript can run.
-* [Mocha](http://visionmedia.github.io/mocha/) - Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun.
+* [Mocha](http://mochajs.org/) - Mocha is a feature-rich JavaScript test framework running on node.js and the browser, making asynchronous testing simple and fun.
 * [Q-Unit](https://qunitjs.com/) - Q-Unit is a powerful, easy-to-use JavaScript unit testing framework. It's used by the jQuery, jQuery UI and jQuery Mobile projects and is capable of testing any generic JavaScript code.
 
 **Assertion Libraries**
